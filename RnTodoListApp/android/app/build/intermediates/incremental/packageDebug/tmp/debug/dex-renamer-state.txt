@@ -1,0 +1,4 @@
+#Thu Nov 19 15:28:36 KST 2020
+base.0=D\:\\Sources\\ReactNative\\RnTodoListApp\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
